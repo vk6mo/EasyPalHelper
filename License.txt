@@ -1,0 +1,29 @@
+Please, read carefully the following license agreement.
+If you don't accept the terms of the agreement, please delete 
+immediately the software from your computer.
+
+EasyPalHelper all it's files and documentation (the Software)
+is copyrighted by David Jefferies (the Author) who reserves all rights.
+
+The Author hereby grants an individual (the Licensee) permission to download, install, and use 
+the Software providing the Licensee accepts and abides by all the following conditions:
+1. The Software is used for non-commercial purposes.
+2. The Software is used to make a positive contribution to the hobby of amateur radio.
+3. The Licensee does not modify or disassemble or attempt to modify or disassemble the Software.
+4. This notice is included verbatim in any distributions.
+
+This software is provided without charge.
+This software is 'closed source'.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, INDIRECT OR 
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS 
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE 
+OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE 
+OR PERFORMANCE OF THIS SOFTWARE 
+
+THE AUTHOR SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THIS SOFTWARE AND ITS 
+DOCUMENTATION ARE PROVIDED ON AN "AS IS" BASIS, AND THE AUTHOR
+HAVE NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES,
+ENHANCEMENTS, OR MODIFICATIONS.
