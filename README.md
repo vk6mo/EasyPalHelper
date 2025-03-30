@@ -6,6 +6,7 @@ The extra functionality includes:
 2. On Air Status - allows additional information to be added about the station details (such as first name, grid ref) and tables all information. It also continuously updates the onair status so that users can tell when the status becomes 'stale'.
 3. Provides an Ftps wrapper for the Ftps program used by EasyPal ("Patch EasyPal Ftps") so that a substitute server can be used in place of the hardcoded Ftps server set up by the original author. Updates to the config also update this config as well (provided the patch has been applied.
 4. Introducing the concept of a 'station identifier' so that users can run multiple transceivers and the RX notifications are independent. For example a user may have a 'local' and 'remote' station. THese can be identified separately with notifications sent for each.
+5. All notifications are logged to a file in the EasyPalHelper data directory (%APPDATA%\EasyPalHelper\NotificationLog.cxv). THis file can be imported very easily into a spreadsheet program for further analysis).
 
 The software is built using Labview, and requires the Labview runtime environment to run.
 The installer is available with or without the runtime. Updates (where the runtime has not changed significantly) can be performed with the 'no runtime' installer.
