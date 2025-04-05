@@ -8,7 +8,7 @@ The extra functionality includes:
    - Logs received notifications to a file in the EasyPalHelper data directory (%APPDATA%\EasyPalHelper\NotificationLog.csv). This file can be imported very easily into a spreadsheet program for further analysis).
 3. On Air Status - allows additional information to be added about the station details (such as first name, grid ref) and tables all information. It also continuously updates the onair status so that users can tell when the status becomes 'stale'.
 4. Provides an Ftps wrapper for the Ftps program used by EasyPal ("Patch EasyPal Ftps") so that a substitute server can be used in place of the hardcoded Ftps server set up by the original author. Updates to the config also update this config as well (provided the patch has been applied.
-5. Introducing the concept of a 'station identifier' so that users can run multiple transceivers and the RX notifications are independent. For example a user may have a 'local' and 'remote' station. THese can be identified separately with notifications sent for each.
+5. Introducing the concept of a 'station identifier' so that users can run multiple transceivers and the RX notifications are independent. For example a user may have a 'local' and 'remote' station. These can be identified separately with notifications sent for each. Station identifier is limited to three alphanumberic characters.
 
 The software is built using Labview, and requires the Labview runtime environment to run.
 The installer is available with or without the runtime. Updates (where the runtime has not changed significantly) can be performed with the 'no runtime' installer.
@@ -16,6 +16,8 @@ The installer is available with or without the runtime. Updates (where the runti
 To use EasyPal Helper, in simple terms
 1. Install EasyPalHelper
 2. Set up the configuration for you, located on the "Setup Etc" tab. Note there are three (3) tabs of setup information. Most users will enter the same information for the Notification server and the On Air Status server
+
+Some parameters provide more information if you 'hover' over them using your mouse. This has been done where it was thought additional information would be helpful.
 
 To make notifications and on-air status work well, it is recommended:
 1. You set up a common ftp server for your EasyPal group (a qsl.net account works well for this).
