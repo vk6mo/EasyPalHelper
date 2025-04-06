@@ -19,7 +19,7 @@ To use EasyPal Helper, in simple terms
 
 Some parameters provide more information if you 'hover' over them using your mouse. This has been done where it was thought additional information would be helpful.
 
-To make notifications and on-air status work well, it is recommended:
+The original author provided a common server for notifications and on-air status. That server no longer exists and it is not the intention of the author to provide a replacement. To make notifications and on-air status work well, it is recommended:
 1. You set up a common ftp server for your EasyPal group (a qsl.net account works well for this).
 2. Distribute these details to your group members.
 3. Each group member sets EasyPal to use a "User Defined Server" with the common ftp server details.
