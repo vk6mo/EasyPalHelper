@@ -6,7 +6,7 @@ The extra functionality includes:
    - allows both senders and receivers to see the notifications that are posted
    - provides statistics by receiver and sender (where sender callsign is available).
    - Logs received notifications to a file in the EasyPalHelper data directory (%APPDATA%\EasyPalHelper\NotificationLog.csv). This file can be imported very easily into a spreadsheet program for further analysis).
-3. On Air Status - allows additional information to be added about the station details (such as first name, grid ref) and tables all information. It also continuously updates the onair status so that users can tell when the status becomes 'stale'.
+3. On Air Status - allows additional information to be added about the station details (such as first name, grid ref) and tables all information. It also continuously updates the onair status so that users can tell if/when a status becomes 'stale'.
 4. Provides an Ftps wrapper for the Ftps program used by EasyPal ("Patch EasyPal Ftps") so that a substitute server can be used in place of the hardcoded Ftps server set up by the original author. Updates to the config also update this config as well (provided the patch has been applied.
 5. Introducing the concept of a 'station identifier' so that users can run multiple transceivers and the RX notifications are independent. For example a user may have a 'local' and 'remote' station. These can be identified separately with notifications sent for each. Station identifier is limited to three alphanumberic characters.
 
