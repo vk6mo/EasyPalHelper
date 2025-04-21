@@ -13,17 +13,20 @@ The extra functionality includes:
 The software is built using Labview, and requires the Labview runtime environment to run.
 The installer is available with or without the runtime. Updates (where the runtime has not changed significantly) can be performed with the 'no runtime' installer.
 
+System Requirements:
+* Win 10 or later
+
 To use EasyPal Helper, in simple terms
 1. Install EasyPalHelper
 2. Set up the configuration for you, located on the "Setup Etc" tab. Note there are three (3) tabs of setup information. Most users will enter the same information for the Notification server and the On Air Status server
 
 Some parameters provide more information if you 'hover' over them using your mouse. This has been done where it was thought additional information would be helpful.
 
-The original author provided a common server for notifications and on-air status. That server no longer exists and it is not the intention of the author to provide a replacement. To make notifications and on-air status work well, it is recommended:
+The original author provided a common server for notifications and on-air status. That server no longer exists and it is not the intention of this author to provide a replacement. To make notifications and on-air status work well, it is recommended:
 1. You set up a common ftp server for your EasyPal group (a qsl.net account works well for this).
 2. Distribute these details to your group members.
 3. Each group member sets EasyPal to use a "User Defined Server" with the common ftp server details.
 Note: QSSTV users can also use these details in their config.
 
-We thank/acknowledge silent key Eric(VK4AES ) as the author of the original EasyPal program. Unfortunately, by all accounts, the source was lost with his passing and so updates to that software are not possible.
+We thank/acknowledge silent key Eric (VK4AES) as the author of the original EasyPal program. Unfortunately, by all accounts, the source was lost with his passing and so updates to that software are not possible.
 
