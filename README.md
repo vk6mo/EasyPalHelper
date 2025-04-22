@@ -10,8 +10,8 @@ The extra functionality includes:
 4. Provides an Ftps wrapper for the Ftps program used by EasyPal ("Patch EasyPal Ftps") so that a substitute server can be used in place of the hardcoded Ftps server set up by the original author. Updates to the config also update this config as well (provided the patch has been applied.
 5. Introducing the concept of a 'station identifier' so that users can run multiple transceivers and the RX notifications are independent. For example a user may have a 'local' and 'remote' station. These can be identified separately with notifications sent for each. Station identifier is limited to three alphanumberic characters.
 
-The software is built using Labview (LV), and requires the Labview runtime environment to run.
-The installer is available with or without the runtime. Updates (where the runtime has not changed significantly) can be performed with the 'no runtime' installer. You may choose to install the LV runtime separately directly from National Instruments, in which case you can use the 'NoLVRuntime' installer. To obtain the LV runtime installer direct from National Instruments you will need to create an account (no charge).
+The software is built using Labview (LV), and requires the LV runtime environment to run.
+The installer is available with or without the runtime. You may choose to install the LV runtime separately directly from National Instruments, in which case you can use the 'NoLVRuntime' installer. To download the LV runtime installer direct from National Instruments you will need to create a National Instruments account (no charge). Updates (where the runtime has not changed significantly) can be performed with the 'no runtime' installer.
 
 System Requirements:
 * Win 10 or later
