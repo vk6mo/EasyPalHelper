@@ -15,6 +15,7 @@ The installer is available with or without the runtime. You may choose to instal
 
 System Requirements:
 * Win 10 or later
+* NI LabVIEW Runtime 2024 Q3 (can be installed with EPH using the applicable installer)
 
 To use EasyPal Helper, in simple terms
 1. Install EasyPalHelper
