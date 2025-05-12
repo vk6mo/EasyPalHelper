@@ -3,15 +3,15 @@ This program is intended to be used alongside EasyPal to provide some additional
 
 The extra functionality includes:
 1. Notifications
-   - allows both senders and receivers to see the notifications that are posted
+   - allowing both senders and receivers to see the notifications that are posted
    - provides statistics by receiver and sender (where sender callsign is available).
    - Logs received notifications to a file in the EasyPalHelper data directory (%APPDATA%\EasyPalHelper\NotificationLog.csv). This file can be imported very easily into a spreadsheet program for further analysis).
 3. On Air Status - allows additional information to be added about the station details (such as first name, grid ref) and tables all information. It also continuously updates the onair status so that users can tell if/when a status becomes 'stale'.
 4. Provides an Ftps wrapper for the Ftps program used by EasyPal ("Patch EasyPal Ftps") so that a substitute server can be used in place of the hardcoded Ftps server set up by the original author. Updates to the config also update this config as well (provided the patch has been applied).
 5. Introducing the concept of a 'station identifier' so that users can run multiple transceivers and the RX notifications are independent. For example a user may have a 'local' and 'remote' station. These can be identified separately with notifications sent for each. Station identifier is limited to three alphanumeric characters.
 
-The software is built using Labview (LV), and requires the LV runtime environment to run.
-The installer is available with or without the runtime. You may choose to install the LV runtime separately directly from National Instruments, in which case you can use the 'NoLVRuntime' installer. To download the LV runtime installer direct from National Instruments you will need to create a National Instruments account (no charge). Updates (where the runtime has not changed significantly) can be performed with the 'no runtime' installer.
+The software is built using the National Instruments (NI) Labview (LV) IDE, and requires the LV runtime environment to run.
+The EPH installer is available with or without the runtime. You may choose to install the LV runtime separately directly from NI, in which case you can use the 'NoLVRuntime' installer. To download the LV runtime installer direct from NI you will need to create a National Instruments account (no charge). Updates (where the runtime has not changed significantly) can be performed with the 'no runtime' installer.
 
 System Requirements:
 * Win 10 or later
