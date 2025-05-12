@@ -1,4 +1,4 @@
-# EasyPalHelper
+# EasyPalHelper (EPH)
 This program is intended to be used alongside EasyPal to provide some additional functionality not originally included with EasyPal and/or work around some of EasyPal's limitations. EasyPalHelper also provides an Ftps wrapper for the Ftps program used by EasyPal ("Patch EasyPal Ftps")
 
 The extra functionality includes:
