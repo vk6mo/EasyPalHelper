@@ -13,21 +13,31 @@ The extra functionality includes:
 The software is built using the National Instruments (NI) Labview (LV) IDE, and requires the LV runtime environment to run.
 The EPH installer is available with or without the runtime. You may choose to install the LV runtime separately directly from NI, in which case you can use the 'NoLVRuntime' installer. To download the LV runtime installer direct from NI you will need to create a National Instruments account (no charge). Updates (where the runtime has not changed significantly) can be performed with the 'no runtime' installer.
 
-System Requirements:
-* Win 10 or later
-* NI LabVIEW Runtime 2024 Q3 (can be installed with EPH using the applicable installer)
-
-To use EasyPal Helper, in simple terms
-1. Install EasyPalHelper
-2. Set up the configuration for you, located on the "Setup Etc" tab. Note there are three (3) tabs of setup information. Most users will enter the same information for the Notification server and the On Air Status server
-
-Some parameters provide more information if you 'hover' over them using your mouse. This has been done where it was thought additional information would be helpful.
-
 The original author of EasyPal provided a common server for notifications and on-air status. That server no longer exists and it is not the intention of this author to provide a replacement. To make notifications and on-air status work well, it is recommended:
 1. You set up a common ftp server for your EasyPal group (a qsl.net account works well for this).
 2. Distribute these details to your group members.
 3. Each group member sets EasyPal to use a "User Defined Server" with the common ftp server details and enters these details in EPH as well.
 Note: QSSTV users can also use these details in their config.
+
+### System Requirements:
+* Win 10 or later
+* NI LabVIEW Runtime 2024 Q3 (can be installed with EPH using the applicable installer)
+
+### Installation
+To install the EPH software.
+1. Download EasyPalHelper to your computer (from this repository in 'releases').
+2. Double click on the installer to run the installer. Use the defaults unless you specifically want something different and know the implications of using different values.
+
+### Configuration
+To configure the software for your station.
+   1. Click on the "Setup Etc" tab.
+   2. Click on the "Station Details" tab. Fill in your station details.
+   3. Click on the "Notifications Server" tab. Fill in the details of your server account you are using for notifications.
+   4. Click on the "OnAirStatus Server" tab. Fill in the details of your server account you are using for on air status.
+
+Most users will enter the same information for the Notification server and the On Air Status server.
+
+Some parameters provide more information if you 'hover' over them using your mouse. This has been done where it was thought additional information would be helpful.
 
 We thank/acknowledge silent key Eric (VK4AES) as the author of the original EasyPal program. Unfortunately, by all accounts, the source was lost with his passing and so updates to that software are not possible.
 
