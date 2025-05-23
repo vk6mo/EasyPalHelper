@@ -29,13 +29,15 @@ To install the EPH software.
 2. Double click on the installer to run the installer. Use the defaults unless you specifically want something different and know the implications of using different values.
 
 ### Configuration
-To configure the software for your station.
-   1. Click on the "Setup Etc" tab.
-   2. Click on the "Station Details" tab. Fill in your station details.
-   3. Click on the "Notifications Server" tab. Fill in the details of your server account you are using for notifications.
-   4. Click on the "OnAirStatus Server" tab. Fill in the details of your server account you are using for on air status.
+To configure the software for your station, firstly click on the "Setup Etc" tab. Then:
+   1. Click on the "Station Details" tab. Fill in your station details.
+   2. Click on the "Notifications Server" tab. Fill in the details of your server account you are using for notifications. The path should normally not need to be changed.
+   3. Click on the "OnAirStatus Server" tab. Fill in the details of your server account you are using for on air status. The path should normally not need to be changed.
+   4. Click on "Save and Reinitialise" button to save your configuration.
 
 Most users will enter the same information for the Notification server and the On Air Status server.
+
+If you need to patch EasyPal Ftps (indicator is amber and says "Needs Patching/Updating"), then click on "Patch EasyPal Ftps" button.
 
 Some parameters provide more information if you 'hover' over them using your mouse. This has been done where it was thought additional information would be helpful.
 
