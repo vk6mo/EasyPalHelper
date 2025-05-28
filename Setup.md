@@ -22,7 +22,7 @@ To configure the software for your station, firstly click on the "Setup Etc" tab
 Most users will enter the same information for the Notification server and the On Air Status server.
 ### Ftps
 
-Finally make sure Easypal has the correct version of Ftps.
+Finally make sure Easypal has the latest version of Ftps.
 
 ![Patch Easypal Ftps](https://github.com/user-attachments/assets/e96ab7d9-b458-4d54-b633-e7e8bcdeeb8c)
 
