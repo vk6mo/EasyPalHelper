@@ -16,5 +16,7 @@ To configure the software for your station, firstly click on the "Setup Etc" tab
    6. ![OnAirStatus](https://github.com/user-attachments/assets/501f2979-3a95-40c9-99b3-6775a81f626b)
 
    7. Click on "Save and Reinitialise" button to save your configuration.
+   8. ![image](https://github.com/user-attachments/assets/f5708c6e-12b4-4323-8739-4132b0463dd8)
+
 
 Most users will enter the same information for the Notification server and the On Air Status server.
