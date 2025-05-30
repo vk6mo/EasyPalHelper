@@ -13,9 +13,9 @@ EasyPalHelper very regularly updates the status so you have a high confidence th
 
 ### What is the Station Identifier all about? How do I use it?
 
-There are a couple of things to understand to answer this. Firstly, running two (2) sessions of EasyPal with the same callsign can create unpredictable results (even if on different computers) due to the way EasyPal works. Also, many hams now run multiple transceivers with separate antennas etc etc etc.  
+There are a couple of things to understand to answer this. Firstly, running two (2) sessions of EasyPal with the same callsign can create unpredictable results (even if on different computers) due to the way EasyPal works. Also, many hams now run multiple transceivers with separate antennas etc etc etc.     
 
-Station identifier introduces a way to have two (or more) setups of gear running with the same callsign and denote each station with a separate "station Identifier". That then means they can each send notifications separately and those notifications can be seen by others as separate notifications.  
+Station identifier introduces a way to have two (or more) setups of gear running with the same callsign and denote each station with a separate "station Identifier". That then means each station can send notifications separately and those notifications can be seen by others as separate notifications.  
   
 An example might best illustrate this:  
 
