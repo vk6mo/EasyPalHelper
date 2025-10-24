@@ -1,3 +1,6 @@
+<head><meta name="google-site-verification" content="2zo9Z3unVjQ4Q_YMQgrz1arEX61V1LulENVyo-t4nvo" /></head>
+
+
 # EasyPalHelper (EPH)
 This program is intended to be used alongside EasyPal to provide some additional functionality not originally included with EasyPal and/or work around some of EasyPal's limitations. EasyPalHelper also provides an Ftps wrapper for the Ftps program used by EasyPal ("Patch EasyPal Ftps")
 
