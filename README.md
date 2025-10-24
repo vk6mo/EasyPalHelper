@@ -25,6 +25,8 @@ Note: QSSTV users can also use these details in their config.
 * NI LabVIEW Runtime 2024 Q3 (can be installed with EPH using the applicable installer)
 
 ### Installation and Setup
+You can download the installation files from [here](https://github.com/vk6mo/EasyPalHelper/releases)
+
 See the separate file "Setup.md" for details instructions on how to install and setup. Or you can click [here](https://github.com/vk6mo/EasyPalHelper/blob/main/Setup.md)
 
 Some parameters provide more information if you 'hover' over them using your mouse. This has been done where it was thought additional information would be helpful.
